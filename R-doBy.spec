@@ -7,7 +7,7 @@
 #
 Name     : R-doBy
 Version  : 4.6.24
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/doBy_4.6.24.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/doBy_4.6.24.tar.gz
 Summary  : Groupwise Statistics, LSmeans, Linear Estimates, Utilities
